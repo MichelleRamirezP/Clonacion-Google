@@ -25,9 +25,6 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("./../imagenes/demo.png)
-
-
 ****
 
 ## 3. ¿Qué construirás?
@@ -52,21 +49,3 @@ Aplicarás:
 
 - Etiquetas estándar HTML5.
 - Estilos con CSS
-
-****
-
-## 5. Requisitos
-
-Usa esta lista para saber los requisitos mínimos del proyecto:
-
-### GENERAL
-
-Realizarse de manera individual
-
-### UI
-- [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
-- [ ] Aplicar tipos de selectores en CSS.
-- [ ] Sección `Header`, `main`, `footer`
-
-
-Happy coding!❤
